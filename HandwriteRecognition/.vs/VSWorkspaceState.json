@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\handwriteapp",
+    "\\handwriteapp\\camera_datasets",
+    "\\handwriteapp\\hand_write_inference",
+    "\\handwriteapp\\hand_write_post_process"
+  ],
+  "SelectedNode": "\\handwriteapp\\hand_write_inference\\hand_write_inference.cpp",
+  "PreviewInSolutionExplorer": false
+}
